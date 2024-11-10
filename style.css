@@ -16,23 +16,23 @@ div{
     grid-area: nav;
     grid-column: 1/6;
     /* border: 1px solid red; */
-    background-color: rgb(255, 205, 205);
+    background-color: rgb(226, 168, 168);
 }
 .item2{
     grid-area: side;
     /* border: 1px solid red; */
-    background-color: rgb(228, 205, 255);
+    background-color: rgb(210, 194, 228);
 }
 .item3{
     grid-area: artical;
     /* border: 1px solid red; */
-    background-color: rgb(224, 252, 214);
+    background-color: rgb(207, 233, 197);
 }
 .item4{
     /* grid-area: footer; */
     grid-column: 2/6;
     /* border: 1px solid red; */
-    background-color: blanchedalmond;
+    background-color: rgb(223, 212, 196);
   
 }
 .item5{
@@ -40,5 +40,5 @@ div{
     grid-column: 4/6;
     /* border: 1px solid red; */
     grid-row: 2/3;
-    background-color:rgb(197, 234, 245);
+    background-color:rgb(180, 187, 189);
 }
