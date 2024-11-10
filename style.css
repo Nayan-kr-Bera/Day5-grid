@@ -40,7 +40,7 @@ div{
     grid-column: 4/6;
     /* border: 1px solid red; */
     grid-row: 2/3;
-    background-color:rgb(180, 187, 189);
+    background-color:rgb(118, 149, 158);
 }
 
 @media (min-device-width: 200px) and (max-device-width: 600px) {
